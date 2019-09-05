@@ -4,8 +4,7 @@ Designed the application via Sketch and React native
 
 | Project | Medium | Screens |
 | ------ | ------ | :------: |
-| [GarageParking Design](https://dribbble.com/shots/7042512/attachments/42799?mode=media) |  | 2 | [Medium]() 
-
+| [GarageParking Design](https://dribbble.com/shots/7042512/attachments/42799?mode=media) | [Medium](https://medium.com/@kennethokerekeUIUX/case-study-nyc-garage-finder-app-ux-design-for-parking-42caf5696602) | 2 | 
 
 ![alt text](https://github.com/kennethokereke/Garage-Parking-app/blob/master/Garage/assets/Garageapp.gif)
 
